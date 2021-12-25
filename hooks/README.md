@@ -82,4 +82,5 @@ cross-platform. Some good examples are shown here:
 [http://devgirl.org/2013/11/12/three-hooks-your-cordovaphonegap-project-needs/](http://devgirl.org/2013/11/12/three-hooks-your-cordovaphonegap-project-needs/)
 
 adding version 
+adding for testing and commiting 
 
